@@ -1,0 +1,7 @@
+overwrite.c:15:6:Set_UART_Redirection_Port	16	static
+overwrite.c:22:5:_read	32	static
+overwrite.c:36:5:_write	32	static
+overwrite.c:49:5:_close	16	static
+overwrite.c:54:5:_fstat	16	static
+overwrite.c:60:5:_isatty	16	static
+overwrite.c:65:5:_lseek	24	static

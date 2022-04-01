@@ -1,0 +1,7 @@
+scheduler.c:16:6:taskList_display	16	static
+scheduler.c:27:6:insert_to_list	48	static
+scheduler.c:80:6:SCH_Add_Task	40	static
+scheduler.c:94:6:SCH_Update	4	static
+scheduler.c:108:6:SCH_Delete	40	static
+scheduler.c:128:6:SCH_Report	8	static
+scheduler.c:142:6:SCH_Dispatch	16	static

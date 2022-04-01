@@ -1,0 +1,2 @@
+helper.c:18:6:resetBuffer	8	static
+helper.c:23:6:printADC	16	static
