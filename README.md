@@ -1,6 +1,6 @@
 <h1 align="center"><project-name>STM32F103C6 Basic Projects</h1>
 
-<p align="left"><project-description>This repo was made to store my individual lab works / projects of the course Microcontrollers - Microprocessors (courseID: CO3009 - semester 211). It consists of the given exercises, Proteus .pdsprj files and STM32CubeIDE projects.</p>
+<p align="left"><project-description>This repo was made to store my individual lab works / projects of the course Microcontrollers - Microprocessors (courseID: CO3009 - semester 211). It consists of the given exercises, Proteus .pdsprj files, STM32CubeIDE projects and my final submission for the course.</p>
  
 ## Included topics
  
